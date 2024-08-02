@@ -20,7 +20,6 @@ My darling boy, you are literally the light of my life. Never before have I expe
   <img src="images/Leo-glasses/IMG_4746.JPG" style="width: 30%; margin: 5px;" alt="Image 6 Description">
 </div>
 
-
 I love it all. Every second. Every joy and every challenge. Having you in my life is the greatest gift I've ever received.
 
 Not being with you every single day breaks my heart. I want you to know that I am sorry that I can't always be there. I hope that in time you will come to understand why I had to leave physically, but also see that I'm always with you in spirit.
@@ -40,4 +39,4 @@ I hope that I can sit and share this all with you someday, but if for any reason
 
 Love Dad
 
-![Full Width Image](images/misc/leo-dad-boras.jpg)
+![Description](images/misc/leo-dad-boras.jpg)
