@@ -39,4 +39,4 @@ I hope that I can sit and share this all with you someday, but if for any reason
 
 Love Dad
 
-![Description](images\misc\leo-dad-boras.jpg)
+![Description](public\images\misc\leo-dad-boras.jpg)
