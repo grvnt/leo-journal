@@ -11,12 +11,12 @@ Dear Leo
 My darling boy, you are literally the light of my life. Never before have I experienced the depth of love that I feel for you. Your cheeky laugh, our little jokes, your flowing hair and beautiful blue eyes, the way you switch between Swedish and English, how you give me that naughty look before you grab my glasses off my face or throw your sloppy porridge on the floor.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="images\Leo-glasses\IMG_4739.JPG" style="width: 30%; margin: 5px;">
-  <img src="images\Leo-glasses\IMG_4740.JPG" style="width: 30%; margin: 5px;">
-  <img src="images\Leo-glasses\IMG_4741.JPG" style="width: 30%; margin: 5px;">
-  <img src="images\Leo-glasses\IMG_4743.JPG" style="width: 30%; margin: 5px;">
-  <img src="images\Leo-glasses\IMG_4744.JPG" style="width: 30%; margin: 5px;">
-  <img src="images\Leo-glasses\IMG_4746.JPG" style="width: 30%; margin: 5px;">
+  <img src="images/Leo-glasses/IMG_4739.JPG" style="width: 30%; margin: 5px;">
+  <img src="images/Leo-glasses/IMG_4740.JPG" style="width: 30%; margin: 5px;">
+  <img src="images/Leo-glasses/IMG_4741.JPG" style="width: 30%; margin: 5px;">
+  <img src="images/Leo-glasses/IMG_4743.JPG" style="width: 30%; margin: 5px;">
+  <img src="images/Leo-glasses/IMG_4744.JPG" style="width: 30%; margin: 5px;">
+  <img src="images/Leo-glasses/IMG_4746.JPG" style="width: 30%; margin: 5px;">
   <!-- More images -->
 </div>
 
@@ -39,4 +39,4 @@ I hope that I can sit and share this all with you someday, but if for any reason
 
 Love Dad
 
-![Description](public\images\misc\leo-dad-boras.jpg)
+![Description](images/misc/leo-dad-boras.jpg)
