@@ -4,6 +4,7 @@ draft: false
 tags:
   - start
 date: 2024-08-01
+cssclasses: img-grid
 ---
 
 Dear Leo
@@ -11,14 +12,14 @@ Dear Leo
 My darling boy, you are literally the light of my life. Never before have I experienced the depth of love that I feel for you. Your cheeky laugh, our little jokes, your flowing hair and beautiful blue eyes, the way you switch between Swedish and English, how you give me that naughty look before you grab my glasses off my face or throw your sloppy porridge on the floor.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="images/Leo-glasses/IMG_4739.JPG" style="width: 30%; margin: 5px;">
-  <img src="images/Leo-glasses/IMG_4740.JPG" style="width: 30%; margin: 5px;">
-  <img src="images/Leo-glasses/IMG_4741.JPG" style="width: 30%; margin: 5px;">
-  <img src="images/Leo-glasses/IMG_4743.JPG" style="width: 30%; margin: 5px;">
-  <img src="images/Leo-glasses/IMG_4744.JPG" style="width: 30%; margin: 5px;">
-  <img src="images/Leo-glasses/IMG_4746.JPG" style="width: 30%; margin: 5px;">
-  <!-- More images -->
+  <img src="images/Leo-glasses/IMG_4739.JPG" style="width: 30%; margin: 5px;" alt="Image 1 Description">
+  <img src="images/Leo-glasses/IMG_4740.JPG" style="width: 30%; margin: 5px;" alt="Image 2 Description">
+  <img src="images/Leo-glasses/IMG_4741.JPG" style="width: 30%; margin: 5px;" alt="Image 3 Description">
+  <img src="images/Leo-glasses/IMG_4743.JPG" style="width: 30%; margin: 5px;" alt="Image 4 Description">
+  <img src="images/Leo-glasses/IMG_4744.JPG" style="width: 30%; margin: 5px;" alt="Image 5 Description">
+  <img src="images/Leo-glasses/IMG_4746.JPG" style="width: 30%; margin: 5px;" alt="Image 6 Description">
 </div>
+
 
 I love it all. Every second. Every joy and every challenge. Having you in my life is the greatest gift I've ever received.
 
@@ -39,4 +40,4 @@ I hope that I can sit and share this all with you someday, but if for any reason
 
 Love Dad
 
-![Description](images/misc/leo-dad-boras.jpg)
+![Full Width Image](images/misc/leo-dad-boras.jpg)
