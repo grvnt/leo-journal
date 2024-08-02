@@ -15,8 +15,8 @@ My darling boy, you are literally the light of my life. Never before have I expe
   <img src="C:\Users\grant\Documents\leo-journal\public\images\Leo-glasses\IMG_4740.JPG" style="width: 30%; margin: 5px;">
   <img src="C:\Users\grant\Documents\leo-journal\public\images\Leo-glasses\IMG_4741.JPG" style="width: 30%; margin: 5px;">
   <img src="C:\Users\grant\Documents\leo-journal\public\images\Leo-glasses\IMG_4743.JPG" style="width: 30%; margin: 5px;">
-  <img src="public\images\Leo-glasses\IMG_4744.JPG" style="width: 30%; margin: 5px;">
-  <img src="public\images\Leo-glasses\IMG_4746.JPG" style="width: 30%; margin: 5px;">
+  <img src="C:\Users\grant\Documents\leo-journal\public\images\Leo-glasses\IMG_4744.JPG" style="width: 30%; margin: 5px;">
+  <img src="C:\Users\grant\Documents\leo-journal\public\images\Leo-glasses\IMG_4746.JPG" style="width: 30%; margin: 5px;">
   <!-- More images -->
 </div>
 
